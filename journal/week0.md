@@ -18,7 +18,7 @@ Billing enabled.
 
 ## Done the drawing with LUCID App.
    
-![Lucid Diagram](images/Crudder%20Diagraam.png)
+![Lucid Diagram](images/Crudder%20Diagram.png)
    
 
 Nakpin Drawing 
