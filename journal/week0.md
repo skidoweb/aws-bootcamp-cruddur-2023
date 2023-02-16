@@ -12,12 +12,14 @@ Billing Alarm created.
 
 Aws budget created 
 
-## Dome the drawing with LUCID App
-   Below is the link
-https://lucid.app/lucidchart/df500bc4-cd68-4bec-afca-cc35a155a43e/edit?view_items=h5uxTG7a293h&invitationId=inv_1da7ab58-8f6c-43b3-938c-6c6db3b2ab1a
+## Done the drawing with LUCID App.
+   
+![Lucid Diagram](images/Crudder%20Diagraam.png)
+   
 
 Nakpin Drawing 
-Yet to do 
+Yet to do
+![Lucid Diagram](images)
 
 ## 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
