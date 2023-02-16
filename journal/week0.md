@@ -2,28 +2,35 @@
 
 ## HomeWork Required 
 
-Created an new user Admin in AWS .
+1. Created an new user Admin in AWS .
 
-Installed AWS CLI via GitHub.
+2. Installed AWS CLI via GitHub.
 
-Billing enabled.
+3. Billing enabled.
+
+
 
 ## Billing Alarm created.
 
-![Alarm](images/Crudder%20Diagraam.png)
+![Alarm](images/Billing%20Alert.png)
+
+
 
 ## Aws budget created 
 
 ![AWS Budget](images/Budget.png)
 
+
+
 ## Done the drawing with LUCID App.
    
-![Lucid Diagram](images/Crudder%20Diagram.png)
+
+[Lucid Chart Share Link](https://lucid.app/lucidchart/df500bc4-cd68-4bec-afca-cc35a155a43e/edit?viewport_loc=-108%2C60%2C2368%2C1294%2C0_0&invitationId=inv_1da7ab58-8f6c-43b3-938c-6c6db3b2ab1a)
    
 
-Nakpin Drawing 
-Yet to do
-![Lucid Diagram](images)
+
+## Nakpin Drawing 
+[Lucid Chart Share Link](https://lucid.app/lucidchart/9aa90955-4189-49b0-aef6-6b1618af1eb5/edit?beaconFlowId=1BF307FD256BABA2&invitationId=inv_bf564da9-890d-4678-afdf-2070855138b1&page=0_0#)
 
 ## 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
