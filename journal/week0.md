@@ -8,9 +8,13 @@ Installed AWS CLI via GitHub.
 
 Billing enabled.
 
-Billing Alarm created.
+## Billing Alarm created.
 
-Aws budget created 
+![Alarm](images/Crudder%20Diagraam.png)
+
+## Aws budget created 
+
+![AWS Budget](images/Budget.png)
 
 ## Done the drawing with LUCID App.
    
